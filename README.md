@@ -2,4 +2,6 @@
 Acquiring knowledge on how to use github
 
 Edited version of the github
-Just recently added
+Just recently
+
+Just removed the word "added''
